@@ -45,6 +45,24 @@ Unlike standard toy buzzers that emit continuous loud screeching tones, this fir
 
 ---
 
+## 🔫 Tactical Rifle Mounting & 90° Flip-to-Side (FTS) Mechanism
+
+Mounted on the rifle's left-side (9 o'clock) Picatinny or M-LOK rail, the sensor incorporates a spring-loaded **90-degree flip-to-side (FTS) locking detent hinge** so it never obstructs primary optics or peripheral vision in dynamic combat environments:
+
+![Project Neal Heartbeat Sensor Tactical Rifle Foldable Mount](assets/rifle_folding_mount.jpg)
+
+### Mechanical Design & Dual Operating Modes:
+1. **DEPLOYED (Recon Mode - 90° Perpendicular):**
+   - The display flips outward $90^\circ$ to sit directly in the operator's left-eye peripheral field of view.
+   - Positioned low and offset to maintain an unobstructed primary sight picture through the red dot / holographic optic.
+   - The HLK-LD2450 24GHz radar antenna points forward along the weapon's bore axis, scanning a $120^\circ$ forward cone up to 6 meters.
+2. **STOWED (Combat / Sprint Mode - 0° Flush):**
+   - A quick push on the locking detent folds the unit flat against the left side of the rifle's handguard.
+   - Hugs the receiver tightly with zero snag points for sling transition, door breaches, and tactical sprinting.
+   - Protects the LCD screen face against the rifle chassis when traversing rough terrain.
+
+---
+
 ## ⚡ Hardware Components & Pinout
 
 | Component | Model / Spec | Connection to Arduino Uno |
