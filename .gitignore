@@ -1,0 +1,11 @@
+# Build artifacts and tools
+tools/
+*.zip
+*.hex
+*.elf
+test_com.ps1
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
